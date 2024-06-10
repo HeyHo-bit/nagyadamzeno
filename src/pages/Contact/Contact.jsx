@@ -67,7 +67,7 @@ export const Contact = () => {
               </IconButton>
             </a>
 
-            <a href="mailto:nagyadamzeno@gamil.com">
+            <a href="mailto:nagyadamzeno@gmail.com">
               <IconButton bg={green}>
                 <AiOutlineMail size={40} />
               </IconButton>
