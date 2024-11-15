@@ -89,14 +89,6 @@ export const About = () => {
           </Educations>
           <Experince>
             <AboutItem
-              color={white}
-              data={{
-                title: "SAP",
-                p: "Product Support Enginner (2024-)",
-                image: sap,
-              }}
-            />
-            <AboutItem
               color={blue}
               data={{
                 title: "KLS 2000 Kft",
