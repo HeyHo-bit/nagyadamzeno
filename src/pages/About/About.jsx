@@ -11,7 +11,6 @@ import dyp from "../../assets/images/dyp.png";
 import up from "../../assets/images/up.png";
 import sos from "../../assets/images/sos.png";
 import kls from "../../assets/images/kls.png";
-import sap from "../../assets/images/sap.png";
 import cisv from "../../assets/images/cisv.jpg";
 import cube from "../../assets/images/cube.jpg";
 import { useInView } from "react-intersection-observer";
