@@ -166,6 +166,7 @@ const textRotate2 = keyframes`
 
 export const Position = styled(PageHeaderStyled)`
   background: unset;
+  width: 100%;
   line-height: unset;
   -webkit-background-clip: unset;
   -webkit-text-fill-color: unset;
