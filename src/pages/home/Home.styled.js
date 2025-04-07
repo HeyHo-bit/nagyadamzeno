@@ -170,7 +170,8 @@ export const Position = styled(PageHeaderStyled)`
   -webkit-background-clip: unset;
   -webkit-text-fill-color: unset;
   margin-block: 0;
-  margin-inline: 0;
+  margin-inline: 0px;
+  width: 100%;
   margin: 0;
   padding: 0;
   position: relative;
@@ -199,7 +200,7 @@ export const Position = styled(PageHeaderStyled)`
   @media screen and (max-width: 1204px) {
     font-size: ${typeScale.title};
   }
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 1204px) {
     font-size: ${typeScale.subtitle};
     width: 100%;
     display: flex;
