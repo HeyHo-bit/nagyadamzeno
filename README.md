@@ -1,6 +1,9 @@
 # HeyHo-bit.github.io
 
 
+https://heyho-bit.github.io/nagyadamzeno
+
+
 "Portions of this code were developed by Teshank Raut. You can find the original project at https://teshank.dev or https://github.com/teshank2137/portfolio."
 
 ## Getting Started
